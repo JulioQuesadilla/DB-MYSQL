@@ -5,17 +5,17 @@
 
  <br/>
  <br/>
- 
- 
+
+
  ## Part 1: Implementing the Generation Students / Courses Database
- 
+
  1. In order to improve the system that you helped to build on the previous Java Module, we need you to create a relational database that allows us to keep track of the courses and students. The system should contain the following tables:
- 
+
  * Students
  * Courses
  * Modules (A set of courses)
  * Countries (To know the nationalities of our students)
- 
+
  2. In order to validate that the system works, and the data is consistent we need you to write *INSERT* queries to add the following data into the database:
 
 | Module                                | Course Code | Course Name                                         |
