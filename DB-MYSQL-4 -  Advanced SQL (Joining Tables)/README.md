@@ -24,13 +24,13 @@
  
   ```
 2. Modify the previous SQL statment so it joins the Students table with the IDTypes table to know which type of ID each student has.
-3. Write an additional SQL statmen to JOIN the Students table with the CourseHasStudent table to get the code of the courses that each students is enrolled to
-4. Write a SQL query to join the CourseHasStudent table with the Courses table to get the name of the course information with the student ID of the students enrolled to the course.
-5. Now that you have the two queries use an INNER JOIN to combine the results of the queries(this is called nested queries and will allow you to combine SQL queries to order the data the way you like)
+3. Write an additional SQL statmen to JOIN the Students table with the CourseHasStudent table to get the code of the courses that each students is enrolled on
+4. Write an SQL query to join the CourseHasStudent table with the Courses table to get the name of the course information with the student ID of  students enrolled in the course.
+5. Now that you have the two queries, use an INNER JOIN to combine the results of the queries (this is called nested queries and will allow you to combine SQL queries to order the data the way you like)
  
 ## Part 2: Understanding your data
- 1. Write a SQL query that allows you to find all the students in a given country
- 2. Write a SQL query that allows you to find all the Countries which name starts with 'Ca'
+ 1. Write an SQL query that allows you to find all the students in a given country
+ 2. Write an SQL query that allows you to find all the Countries which name starts with 'Ca'
  3. Count all the students that are enrolled in the course 'JAVA-1'
  4. Calculate the *SUM* of the credits of all the courses that have the word 'JAVA' in the name 
 
