@@ -16,7 +16,7 @@
  * Modules (A set of courses)
  * Countries (To know the nationalities of our students)
 
- 2. In order to validate that the system works, and the data is consistent we need you to write *INSERT* queries to add the following data into the database:
+ 2. In order to validate that the system works and the data is consistent, we need you to write *INSERT* queries to add the following data into the database:
 
 | Module                                | Course Code | Course Name                                         |
 |---------------------------------------|-------------|-----------------------------------------------------|
@@ -36,4 +36,4 @@
 
 ### Challenge Yourself
 
-1. Create an additioanl table to store the student's grades.
+1. Create an additional table to store the student's grades.
