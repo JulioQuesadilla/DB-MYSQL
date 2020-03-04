@@ -9,7 +9,7 @@
 
 ## Part 1: Implementing a database
 
-1. Given the tables 'Worker', 'Bonus', 'Title' shown below.
+Given the tables 'Worker', 'Bonus', 'Title' shown below:
 
 **Worker**
 
@@ -47,9 +47,9 @@
 |    006            | 	Lead           |	4500         |
 |    003	          |   Lead           |  3500         |
 
-2. Write the SQL required to generate the database.
+1. Write the SQL required to generate the database.
 
-3. You can use [this SQL file](https://drive.google.com/open?id=1hJm0CV5DoJ9Vh4hXgrv7WHf4_ycgf5te) as a reference to help in places you're unsure.  
+2. You can use [this SQL file](https://drive.google.com/open?id=1hJm0CV5DoJ9Vh4hXgrv7WHf4_ycgf5te) as a reference to help in places you're unsure.  
 
 Write the following queries:
 
