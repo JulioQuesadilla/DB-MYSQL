@@ -36,4 +36,4 @@
 
 ## Challenge yourself
  1. Write a Query that allows you to count all the students that are enrolled in a given module.
- *Hint* You need to count all the students enrolled in all the courses of the module.
+ *Hint*: You need to count all the students enrolled in all the courses of the module.
