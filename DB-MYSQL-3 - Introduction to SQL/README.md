@@ -53,15 +53,15 @@ Given the tables 'Worker', 'Bonus', 'Title' shown below:
 
 Write the following queries:
 
- - Write An SQL Query to print all Employee details from the 'Employee' table Order By FIRST_NAME Ascending.
+ - Write a SQL Query to print all Employee details from the 'Employee' table Order By FIRST_NAME Ascending.
 
- - Write an SQL query to print details for Employee with the first name As “Vivek” And “Bhati” From Employee Table.
+ - Write a SQL query to print details for Employee with the first name As “Vivek” And “Bhati” From Employee Table.
 
- - Write an SQL query to print details of employees excluding first names, “Vivek” And “Bhati” From Employee table.
+ - Write a SQL query to print details of employees excluding first names, “Vivek” And “Bhati” From Employee table.
 
- - Write an SQL Query to print details of employees With DEPARTMENT name As “Admin”
+ - Write a SQL Query to print details of employees With DEPARTMENT name As “Admin”
 
- - Write an SQL query to print all employee details from the Employee Table Order By FIRST_NAME Ascending And DEPARTMENT Descending.
+ - Write a SQL query to print all employee details from the Employee Table Order By FIRST_NAME Ascending And DEPARTMENT Descending.
 
 
 
@@ -75,6 +75,6 @@ We're going to enter some sample data into the db stored [here](https://drive.go
 
 3. Perform the following queries on the database:  
 
- - Write an SQL Query to print details of Students With nationality as United States of America
+ - Write a SQL Query to print details of Students With nationality as United States of America
 
- - Write An SQL Query to print all Student details from the 'Student' table Order By last_ame Descending.
+ - Write a SQL Query to print all Student details from the 'Student' table Order By last_name Descending.
